@@ -1,0 +1,9 @@
+npf\dvdcollection\dao\DVDCollectionDaoException.class
+npf\dvdcollection\ui\UserIOConsoleImpl.class
+npf\dvdcollection\dao\DVDCollectionDaoFileImpl.class
+npf\dvdcollection\controller\DVDCollectionController.class
+npf\dvdcollection\ui\DVDCollectionView.class
+npf\dvdcollection\ui\UserIO.class
+npf\dvdcollection\dto\DVD.class
+npf\dvdcollection\App.class
+npf\dvdcollection\dao\DVDCollectionDao.class
